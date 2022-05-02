@@ -1,0 +1,12 @@
+{
+  "name": "validation-angolan-phone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luiscaputo/validation-angolan-phone.git",
+  "author": "luiscaputo <luiscaputo15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
